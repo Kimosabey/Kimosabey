@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimosabey
-- 👀 I’m interested in Reactjs, VanillaJs, NodeJs, Es6, Typescript ...
-- 🌱 I’m currently learning Nodejs...
-- 💞️ I’m looking to collaborate on Nodejs, ReactJs..
+- 👀 I’m interested in ReactJs, VanillaJs, NodeJs, Es6, Typescript , NextJs..
+- 🌱 I’m currently learning NodeJs and ReactJS...
+- 💞️ I’m looking to collaborate on NodeJs, ReactJs..
 
 
 <!---
