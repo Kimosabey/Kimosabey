@@ -86,8 +86,10 @@ These are active R&D projects pushing the boundaries of distributed systems.
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kimosabey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimosabey&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <h3>Ready to Collaborate?</h3>
+  <a href="mailto:harshan.aiyappa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshan.aiyappa%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </div>
 
 <br />
