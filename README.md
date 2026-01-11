@@ -33,38 +33,54 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">ChronicleLedger</h3>
-      <div align="center">Production-grade distributed ledger.</div>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/Kimosabey/velocity-edge">VelocityEdge</a></h3>
+      <div align="center">L7 Edge Caching system. 1ms Latency.</div>
       <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/Stack-Node%20%7C%20CockroachDB%20%7C%20Raft-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Varnish%20%7C%20Node%20%7C%20Docker-black?style=flat-square" />
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">VelocityEdge</h3>
-      <div align="center">Real-time dashboard (100k events/sec).</div>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/Kimosabey/limit-guard">LimitGuard</a></h3>
+      <div align="center">Distributed Rate Limiter (Sliding Window).</div>
       <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/Stack-Go%20%7C%20WebSockets%20%7C%20Redis-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Redis%20Lua%20%7C%20TypeScript-black?style=flat-square" />
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/Kimosabey/data-quarantine">DataQuarantine</a></h3>
+      <div align="center">Streaming Data Quality Gateway.</div>
+      <br />
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-Kafka%20%7C%20Python%20%7C%20MinIO-black?style=flat-square" />
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">DataQuarantine</h3>
-      <div align="center">Fault-tolerant ETL pipeline with circuit breakers.</div>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/Kimosabey/docmind-ai">DocMind AI</a></h3>
+      <div align="center">Enterprise RAG with Hybrid Search.</div>
       <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/Stack-Kafka%20%7C%20Postgres%20%7C%20Docker-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-FastAPI%20%7C%20ChromaDB%20%7C%20Llama3-black?style=flat-square" />
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">DocMind AI</h3>
-      <div align="center">Advanced RAG system with hybrid search.</div>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/Kimosabey/chronicle-ledge">ChronicleLedger</a></h3>
+      <div align="center">Distributed Ledger with Raft Consensus.</div>
       <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/Stack-Python%20%7C%20LangChain%20%7C%20Pinecone-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-CockroachDB%20%7C%20Node%20%7C%20NATS-black?style=flat-square" />
+      </div>
+    </td>
+    <td width="33%">
+      <h3 align="center"><a href="https://github.com/Kimosabey/logstream-ai">LogStream AI</a></h3>
+      <div align="center">High-Throughput Log Ingestion.</div>
+      <br />
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-EventDriven%20%7C%20BullMQ%20%7C%20Mongo-black?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -76,12 +92,12 @@
 
 These are active R&D projects pushing the boundaries of distributed systems.
 
+- **SpecLens** `Stable`  
+  *Intelligent Specification Analysis using NLP & Knowledge Graphs.*
+- **VoiceSync AI** `Stable`  
+  *Privacy-first Offline Transcription using Whisper & Faster-Whisper.*
 - **TokenForge** `Building`  
   *Distributed Authentication Provider using NestJS & OIDC.*
-- **RingRoute** `Building`  
-  *High-concurrency Request Router with Consistent Hashing (Go).*
-- **TelemetryLakehouse** `Building`  
-  *Enterprise Data Ingestion with Java Spring & ClickHouse.*
 
 <br />
 
