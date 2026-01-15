@@ -42,11 +42,11 @@
       </div>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/Kimosabey/limit-guard">LimitGuard</a></h3>
-      <div align="center">Distributed Rate Limiter (Sliding Window).</div>
+      <h3 align="center"><a href="https://github.com/Kimosabey/live-nexus-ai">LiveNexus AI</a></h3>
+      <div align="center">Real-time Hybrid Audio Intelligence.</div>
       <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/Stack-Redis%20Lua%20%7C%20TypeScript-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-LiveKit%20%7C%20Next.js%20%7C%20Python-black?style=flat-square" />
       </div>
     </td>
     <td width="33%">
@@ -96,6 +96,14 @@ These are active R&D projects pushing the boundaries of distributed systems.
   *Intelligent Specification Analysis using NLP & Knowledge Graphs.*
 - **VoiceSync AI** `Stable`  
   *Privacy-first Offline Transcription using Whisper & Faster-Whisper.*
+- **AgentCore** `Stable`  
+  *Autonomous Local AI Agent Framework with ReAct Pattern.*
+- **LimitGuard** `Stable`  
+  *Distributed Rate Limiting using Redis & Lua.*
+- **SpeakFlow** `Stable`  
+  *Real-time Pronunciation Feedback with Audio Visualization.*
+- **LogStream AI** `Stable`  
+  *High-Throughput Log Ingestion Service.*
 
 <br />
 
