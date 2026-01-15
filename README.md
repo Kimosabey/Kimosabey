@@ -76,11 +76,11 @@
       </div>
     </td>
     <td width="33%">
-      <h3 align="center"><a href="https://github.com/Kimosabey/logstream-ai">LogStream AI</a></h3>
-      <div align="center">High-Throughput Log Ingestion.</div>
+      <h3 align="center"><a href="https://github.com/Kimosabey/token-forge">TokenForge</a></h3>
+      <div align="center">Enterprise Identity Provider (IdP).</div>
       <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/Stack-EventDriven%20%7C%20BullMQ%20%7C%20Mongo-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-NestJS%20%7C%20OIDC%20%7C%20MFA-black?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -96,8 +96,6 @@ These are active R&D projects pushing the boundaries of distributed systems.
   *Intelligent Specification Analysis using NLP & Knowledge Graphs.*
 - **VoiceSync AI** `Stable`  
   *Privacy-first Offline Transcription using Whisper & Faster-Whisper.*
-- **TokenForge** `Building`  
-  *Distributed Authentication Provider using NestJS & OIDC.*
 
 <br />
 
