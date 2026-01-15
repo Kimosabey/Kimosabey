@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="./profile.webp" alt="Harshan Aiyappa" width="150" height="150" style="border-radius: 50%" />
+</div>
+
+<div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-KimoNexus-6b7bff?style=for-the-badge&logo=framer&logoColor=white)](https://kimo-nexus.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshan-aiyappa)
