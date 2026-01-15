@@ -10,7 +10,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-KimoNexus-6b7bff?style=for-the-badge&logo=framer&logoColor=white)](https://kimo-nexus.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshan-aiyappa)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshan_aiyappa)
+  [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshan_aiyappa)
   
 </div>
 
