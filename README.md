@@ -16,8 +16,11 @@
 
 <br />
 
-> **"Forging complexity into simplicity."**  
-> Senior Full Stack Engineer specializing in **Distributed Systems**, **Generative AI**, and **High-Performance Architectures**.
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Forging+complexity+into+simplicity.;Architecting+Distributed+Systems.;Building+Next-Gen+AI+Agents.;Senior+Full+Stack+Hybrid+Engineer." alt="Typing SVG" />
+</div>
 
 <br />
 
